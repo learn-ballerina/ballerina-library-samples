@@ -4,7 +4,7 @@ In today’s interconnected world, communication is key, and what better way to 
 
 Ballerina, known for its simplicity and power in building cloud-native integrations, combines with Twilio’s versatile [communication APIs](https://dzone.com/articles/3-types-of-user-communication-apis-and-when-to-use) to help you send SMS, make voice calls, send WhatsApp messages, and more. 
 
-In this guide, we’ll explore how the `ballerinax/twilio` package can empower you to build robust communication features effortlessly.
+In this guide, we’ll explore how the `ballerinax/twilio` package can empower you to build robust communication features effortlessly. Refer to [ballerina/twilio API Docs](https://lib.ballerina.io/ballerinax/twilio/latest) for more details.
 
 ## Prerequisites
 - Install [Ballerina Swan Lake](https://ballerina.io/downloads/) and [Ballerina VS Code plugin](https://wso2.com/ballerina/vscode/).

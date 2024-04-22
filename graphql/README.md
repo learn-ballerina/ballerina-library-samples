@@ -152,8 +152,6 @@ curl -X POST -H "Content-type: application/json" -d "{\"query\": \"{ accounts { 
 
 ### Sample Request 2:  Get the details of a specific account ID
 
-> Note : Only after [Level 2](https://github.com/anupama-pathirage/ballerina-training-content/tree/graphql-level2/graphql-bank) of the source code
-
 GraphQL query: 
 
 ```graphql
@@ -203,8 +201,6 @@ curl -X POST -H "Content-type: application/json" -d "{\"query\": \"{ accounts(ac
 ```
 
 ### Sample Request 3:  Get the details of accounts attached to a given employee
-
-> Note : Only after [Level 2](https://github.com/anupama-pathirage/ballerina-training-content/tree/graphql-level2/graphql-bank) of the source code
 
 GraphQL query: 
 
@@ -267,9 +263,6 @@ curl -X POST -H "Content-type: application/json" -d "{\"query\": \"{ accounts(em
 ```
 
 ### Sample Request 4:  Get the details of accounts with input arguments in the fields
-
-> Note : Only after [Level 3](https://github.com/anupama-pathirage/ballerina-training-content/tree/graphql-level3/graphql-bank) of the source code
-
 
 GraphQL query: 
 
